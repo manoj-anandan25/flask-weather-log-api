@@ -77,10 +77,3 @@ curl -X POST http://127.0.0.1:5000/weathers \
      -Body '{"city":"New York","temperature":25.5,"condition":"Sunny","date":"2025-08-13"}'
 ```
 
-
-
-
-
-
-
-Do you want me to prepare that? That would make it *really professional*.
